@@ -31,7 +31,7 @@
 ### 4.	When the first part is selected then it will open in the blank space in the left side of the screen.
 ### 5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
-## OUTPUT :
+## INPUT :
 
 ## Support Removal Process
 ![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
@@ -47,8 +47,23 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+## Support Removal Process
+![6 1-1](https://github.com/user-attachments/assets/547f07c2-113e-4940-b746-fff2acf45266)
+![empd 2 (1)](https://github.com/user-attachments/assets/d7920613-ecd4-41fd-be0f-0909065fb25a)
+
+
+## UV Curing od #d printed part
+![WhatsApp Image 2024-12-05 at 11 12 36 AM](https://github.com/user-attachments/assets/8e9ddc18-020e-4dd8-a4cb-f67f2ce3292b)
+![WhatsApp Image 2024-12-05 at 11 12 37 AM](https://github.com/user-attachments/assets/e54d5da5-7875-42ab-87ea-40b8b6fc3bab)
+
+
+## Heat Treatment od 3D printed part
+![6 2-h1](https://github.com/user-attachments/assets/30977ac8-a93f-4b4a-85de-096f110b7c05)
+![6 2-h2](https://github.com/user-attachments/assets/37314783-a820-483d-a857-9864c0571b12)
+
+
+### Name:Harini P
+### Register Number: 24005217
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
